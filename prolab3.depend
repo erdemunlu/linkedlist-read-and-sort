@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609460769 source:c:\codeblocks-projeler\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
